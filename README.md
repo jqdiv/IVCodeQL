@@ -1,0 +1,2 @@
+# IVCodeQL
+ Learning CodeQL
